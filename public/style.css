@@ -1,0 +1,78 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Add 15px padding to divs with the "container" class */
+/* Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
+ {
+
+  
+}
+
+/*
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Make only the h1 with id "register" have BOLD navy text (look up the hex code for navy) */
+h1 {
+  
+  
+}
+
+/* Override default hr style with a 30-pixel bottom margin and a 2-pixel solid azure (look up the hex code) border. */
+hr {
+  
+  
+}
+
+/* Set a style for the submit button */
+.registerbtn {
+  /* Set the background color to navy using the hex color */
+  
+  /* Set the text color to white using the hex color */  
+  
+  padding: 16px 20px;
+  margin: 8px 0;
+  /* Set it to have no border */
+  
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity: 1;
+}
+
+a {
+  /* Add a navy blue text color to links */
+  color: ;
+}
+
+/* Change the color of links to azure on mouseover using the :hover pseudoclass */
+ {
+  
+}
+
+/* Set a grey background color and center the text of the section with class "signin" */
+ {
+
+}
