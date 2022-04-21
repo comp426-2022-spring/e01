@@ -11,12 +11,40 @@ https://classroom.github.com/a/VGa4L5eC
 
 ## Instructions
 
-Follow the instructions in the comments in files listed inside the `/public` directory.
+Follow the instructions in the NUMBERED comments in the `.html` and `.css` files listed inside the `/public` directory.
 
 ```html
-<!-- HTML comments look like this -->
+<!-- 0. HTML comments look like this -->
 ```
 
 ```css
-/* CSS comments look like this */
+/* 00. CSS comments look like this */
 ```
+
+## Useful links
+
+### General HTML 
+
+https://www.w3schools.com/html/default.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+### General CSS
+
+https://www.w3schools.com/css/default.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+### Hex colors
+
+https://www.color-hex.com/
+
+https://colorcodes.io/blue/azure-color-codes/
+
+https://colorcodes.io/blue/navy-blue-color-codes/
+
+https://en.wikipedia.org/wiki/Carolina_blue
+
+### Assignment reference
+
+https://www.w3schools.com/howto/howto_css_register_form.asp
