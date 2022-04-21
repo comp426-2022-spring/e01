@@ -1,5 +1,10 @@
 # e01 HTML-CSS
-An optional assignment for you to earn some extra credit.
+
+## Description 
+
+This optional assignment is intended to help you develop a general sense of familiarity with HTML and CSS or add a little polish to your HTML and CSS skills.
+
+You can receive extra credit for it if you wish to submit it.
 
 This assignment is worth 25,000 extra credit points.
 
