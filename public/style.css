@@ -7,16 +7,14 @@ body {
   box-sizing: border-box;
 }
 
-/* Add 15px padding to divs with the "container" class */
-/* Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
+/* 8. Add style to divs with the "container" class */
  {
-
+  /* 9. Add 15px padding */
   
+  /* 10. Make the background color of the container Carolina Blue using the hex code defined here: https://en.wikipedia.org/wiki/Carolina_blue*/
+
 }
 
-/*
-
-/* Full-width input fields */
 input[type=text], input[type=password] {
   width: 100%;
   padding: 15px;
@@ -31,27 +29,30 @@ input[type=text]:focus, input[type=password]:focus {
   outline: none;
 }
 
-/* Make only the h1 with id "register" have BOLD navy text (look up the hex code for navy) */
+/* 11. Style only the h1 with id "register" */
 h1 {
+  /* 12. Make the text BOLD */
   
+  /* 13. Make the text color navy (look up the hex code for navy)
   
 }
 
-/* Override default hr style with a 30-pixel bottom margin and a 2-pixel solid azure (look up the hex code) border. */
 hr {
+  /* 14. Override default hr style with a 30-pixel bottom margin */
   
+  /* 15. Add a 2-pixel solid azure border (look up the hex code). */
   
 }
 
-/* Set a style for the submit button */
-.registerbtn {
-  /* Set the background color to navy using the hex color */
+/* 16. Set a style for the submit button with "registerbtn" class */
+ {
+  /* 17. Set the background color to navy using the hex color */
   
-  /* Set the text color to white using the hex color */  
+  /* 18. Set the text color to white using the hex color */  
   
   padding: 16px 20px;
   margin: 8px 0;
-  /* Set it to have no border */
+  /* 19. Set it to have no border */
   
   cursor: pointer;
   width: 100%;
@@ -63,16 +64,22 @@ hr {
 }
 
 a {
-  /* Add a navy blue text color to links */
+  /* 20. Make link text color navy blue (look up the hex code) */
   color: ;
+  /* 21. Set the text-decoration to none for links */
+  text-decoration: ;
 }
 
-/* Change the color of links to azure on mouseover using the :hover pseudoclass */
+/* 22. Set style for links using the :hover pseudoclass */
  {
+  /* 23. Change the color of links to azure on mouseover */
+  
+  /* 24. Set the text-decoration to underline for links on mouseover */
   
 }
 
-/* Set a grey background color and center the text of the section with class "signin" */
- {
-
+.signin {
+  background-color: #f1f1f1
+  /* 25. Align the text for the section with class "signin" to be centered */
+  
 }
